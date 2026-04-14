@@ -1,6 +1,6 @@
 # Projet de Data Science : Exploration, Classification, Clustering et Règles d'Association
 
-Ce dépôt contient une série de notebooks Jupyter démontrant l'application de diverses techniques d'analyse de données et d'apprentissage automatique (Machine Learning). Le projet couvre l'ensemble du cycle de vie de la donnée : de l'analyse exploratoire (EDA) à la modélisation prédictive (supervisée et non supervisée), en passant par la découverte de patterns.
+Ce dépôt contient une série de notebooks Jupyter démontrant l'application de diverses techniques d'analyse de données et d'apprentissage automatique (Machine Learning). Le projet couvre l'ensemble du cycle de vie de la donnée : de l'analyse exploratoire à la modélisation prédictive (supervisée et non supervisée), en passant par la découverte de patterns.
 
 ##  Jeux de données (Datasets)
 
@@ -32,6 +32,6 @@ Les analyses s'appuient sur deux jeux de données distincts inclus dans ce dép�
 ##  Technologies et Bibliothèques utilisées
 
 Pour exécuter ces notebooks, vous aurez besoin de l'environnement Python standard pour la Data Science. Les principales bibliothèques utilisées sont :
-* `pandas` & `numpy` (Manipulation des données)
-* `matplotlib` & `seaborn` (Visualisation des données)
-* `scikit-learn` (Modélisation Machine Learning et métriques d'évaluation)
+* `pandas` & `numpy`  (Manipulation des données)
+* `matplotlib` & `seaborn`  (Visualisation des données)
+* `scikit-learn`  (Modélisation Machine Learning et métriques d'évaluation)
